@@ -1,4 +1,4 @@
-##dynamicTextClassification
+## Domain-embedding-enhanced dynamic text classification
 ### 'Dynamic building defect categorization through enhanced unsupervised text classification with domain-specific corpus embedding methods'
 This study proposes two methods to enhance unsupervised text classification for domain-specific non-English text using improved domain corpus embedding: 1) weighted embedding-based anchor word clustering (wean-Clustering), and 2) cosine-similarity-based classification using a defect corpus that is vectorized by fine-tuned pre-trained language models (sim-Classification-ftPLM). The proposed methods were tested on 40,765 Korean building defect complaints and achieved F1 scores of 89.12% and 84.66% respectively. 
 
